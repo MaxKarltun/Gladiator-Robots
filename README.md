@@ -4,7 +4,7 @@
 >
 > Train your bot, manage your cash, and survive arena fights in this retro text-based robot showdown.
 
-![Preview](.github/images/preview3.png)
+![Preview](assets/js/preview3.png)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-96.3%25-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-3.7%25-E34F26?logo=html5&logoColor=white)
